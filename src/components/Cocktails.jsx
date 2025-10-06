@@ -22,7 +22,7 @@ const Cocktails = () => {
     }, [])
 
   return (
-    <section id='cocktails' className='noisy lg:px-[5%]'>
+    <section id='cocktails' className='noisy lg:px-[10%]'>
         <img src="/images/cocktail-left-leaf.png" alt="l-leaf" id='c-left-leaf'/>
         <img src="/images/cocktail-right-leaf.png" alt="r-leaf" id='c-right-leaf'/>
         

@@ -72,7 +72,7 @@ const Hero = () => {
         <img src="/images/hero-right-leaf.png" alt="right-leaf" className="right-leaf"/> 
            
         <div className="body">
-            <div className="content">
+            <div className="content lg:px-[10%]">
                 <div className="space-y-5 hidden md:block">
                     <p>Cool. Crisp. Classic.</p>
                     <p className="subtitle">Sip the Spirit <br /> of Summer</p>
