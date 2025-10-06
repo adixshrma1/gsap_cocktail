@@ -8,7 +8,7 @@ const Art = () => {
   const isMobile = useMediaQuery({ maxWidth: 767 });
 
   useGSAP(()=>{
-    const start = isMobile ? 'top 20%' : 'top -10%';
+    const start = isMobile ? 'top 30%' : 'top -10%';
 
     const maskTimeLine = gsap.timeline({
       scrollTrigger: {
